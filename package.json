@@ -1,0 +1,19 @@
+{
+"name": "myfirstwordpress",
+"version": "8.12.0",
+"description": "node app ",
+"main": "app.js",
+"scripts": {
+"start": "node app.js"
+},
+"repository": {
+"type": "git",
+"url": "git@github.com:mariapesm/wordpress-extensions-browsers.git"
+},
+"author": "mariapesm",
+"license": "ISC",
+"bugs": {
+"url": ""
+},
+"homepage": "https://mariapesm.github.io/wordpress-extensions-browsers/"
+}
